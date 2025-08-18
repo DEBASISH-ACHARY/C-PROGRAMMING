@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    int a =12;
+    char b='a';
+    float f=12.5;
+    double d=12.52379;
+    printf("%d \n", a );
+    printf("%c \n", b );
+    printf("%f \n", f );
+    printf("%lf \n", d );
+    return 0;
+}
