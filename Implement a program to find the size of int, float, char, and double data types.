@@ -1,0 +1,17 @@
+# include <stdio.h>
+
+int main(){
+
+    int a=12;
+    char b='a';
+    float f=12.5;
+    double d = 12.34434 ;
+
+    printf("Size of int a is : %d \n",sizeof(a));
+    printf("Size of int b is : %d \n",sizeof(b));
+    printf("Size of int f is : %d \n",sizeof(f));
+    printf("Size of int d is : %d \n",sizeof(d));
+
+
+    return 0;
+}
