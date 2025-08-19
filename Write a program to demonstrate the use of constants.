@@ -1,0 +1,7 @@
+# include<stdio.h>
+int main(){
+
+    const float pi =3.141;
+    printf(" Value of pi is : %f",pi);
+    return 0;
+}
